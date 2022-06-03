@@ -1,6 +1,10 @@
 # ON15-TET-S10-Revisão
 Turma Online Todas em Tech - Back-end | Semana 10: Projeto Guiado: CRUD
 
+
+# Após essa aula maravilhosa segue o resultado... top
+
+
 # Hello!
 
 Como você está lidando com esse processo de transição? 
