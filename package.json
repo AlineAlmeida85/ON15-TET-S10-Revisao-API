@@ -2,7 +2,7 @@
   "name": "on15-tet-s10-revisao-api",
   "version": "1.0.0",
   "description": "Turma Online Todas em Tech - Back-end | Semana 10: Projeto Guiado: CRUD",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
